@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "KindHeart",
+      "myemail": "kinley@yahoo.com",
+      "mypass": "fresh bottle",
+      "id": "c75f"
+    },
+    {
+      "id": "6d26",
+      "username": "Lebron james",
+      "myemail": "lj@test.com",
+      "mypass": "ljnflstarlord"
+    },
+    {
+      "id": "e120",
+      "username": "Sp",
+      "myemail": "lj@test.com",
+      "mypass": "uytre"
+    },
+    {
+      "id": "c817",
+      "username": "Vipuls",
+      "myemail": "xyz@yahoo.com",
+      "mypass": "newpass"
+    }
+  ]
+}
